@@ -17,7 +17,7 @@
 适用人群：有一定 vue 开发经验
 
 ### Linux
-[The Linux Command Line]）(http://billie66.github.io/TLCL/book/)
+[The Linux Command Line](http://billie66.github.io/TLCL/book/)
 推荐理由：简单，容易上手
 推荐指数：3.5
 适用人群：零基础
